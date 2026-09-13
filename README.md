@@ -55,6 +55,7 @@ Atualmente venho focando meus estudos principalmente em **Java, Spring Boot, Rea
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+   
 </p>
 
 **Principais conceitos:**
@@ -95,6 +96,8 @@ Atualmente venho focando meus estudos principalmente em **Java, Spring Boot, Rea
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="42" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal" width="42" />
 </p>
 
 * Docker
@@ -102,6 +105,7 @@ Atualmente venho focando meus estudos principalmente em **Java, Spring Boot, Rea
 * Kubernetes
 * GitHub Actions
 * Linux
+* Jenkins
 * CI/CD
 * Containers
 * Redes
